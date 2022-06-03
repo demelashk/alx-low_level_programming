@@ -17,7 +17,7 @@
 int main(void)
 
 {
-
+/*main description*/
 	int n;
 
 
