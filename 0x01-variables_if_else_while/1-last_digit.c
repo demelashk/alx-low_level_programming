@@ -4,7 +4,7 @@
 
 #include <time.h>
 
-/*
+/**
 
 * main - random numbers
 
@@ -15,10 +15,6 @@
 int main(void)
 
 {
-  /**
-  *test main
-  
-  */
 
 int n;
 
@@ -51,4 +47,5 @@ printf("Last digit of %d is %d and is greater than 5\n", n, n % 10);
 }
 
 return (0);
+
 }
