@@ -1,2 +1,2 @@
 0x06. C - More pointers, arrays and strings
-hello
+Test for change
